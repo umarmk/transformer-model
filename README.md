@@ -32,12 +32,6 @@ This project implements the core components of the "Attention Is All You Need" p
    pip install -r requirements.txt
    ```
 
-   _Note: Ensure you have the correct PyTorch version for your GPU. If needed:_
-
-   ```bash
-
-   ```
-
 ## Training Options
 
 ### 1. Local Training (Accelerated)
