@@ -9,7 +9,7 @@ This project implements the core components of the "Attention Is All You Need" p
 - **Architecture**: Decoder-only Transformer (suited for text generation).
 - **Components**: Multi-Head Attention, Sinusoidal Positional Encoding, Feed-Forward Networks, Layer Normalization.
 - **Dataset**: Character-level tokenization of the Shakespeare dataset.
-- **Hardware**: Optimized for CUDA-enabled GPUs (e.g., tested on GTX 1660 Ti).
+- **Hardware**: Optimized for CUDA-enabled GPUs 
 
 ## Structure
 
